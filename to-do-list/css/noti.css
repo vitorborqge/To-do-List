@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.notf-box {
+  height: 4rem;
+  overflow: hidden;
+  background-color: #ebf7ee;
+  border: 2px solid #3ebe6180;
+  border-radius: 10px;
+  position: absolute;
+  right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 12px;
+  padding: 12px;
+  box-shadow: 12px 12px 20px #3ebe611c;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.notf-box {
+  visibility: hidden;
+}

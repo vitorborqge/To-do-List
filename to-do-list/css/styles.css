@@ -1,0 +1,38 @@
+body {
+  font-family: Merriweather, serif;
+  margin: 0;
+  padding: 20px 40px;
+  text-align: center;
+  background-color: #FAFDD6;
+}
+
+div {
+  background-color: #FAFDD6;
+}
+
+h1 {
+  color: #E6BA95;
+  font-family: Sacramento, cursive;
+  font-size: 5.62rem;
+  line-height: 2;
+}
+
+h2 {
+  color: #E6BA95;
+  font-family: Montserrat, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.row {
+  padding-top: 9rem;
+}
+
+.btn {
+  margin: 10px;
+}
+
+form div {
+  width: 100%;
+  max-width: 620px;
+}
