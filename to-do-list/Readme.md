@@ -45,4 +45,4 @@ Você pode adicionar seu trabalho com descrição.
 Se quiser agradecer e/ou apoiar o desenvolvimento ativo da To-Do-List:
 
 1. Adicione um GitHub Star ao projeto.
-2. Follow [vitorborqge](https://github.com/vitorborqge)
+2. Siga [vitorborqge](https://github.com/vitorborqge)
