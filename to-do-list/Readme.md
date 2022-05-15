@@ -38,11 +38,11 @@ Você pode adicionar seu trabalho com descrição.
 
 ## ‎‍💻 Autor
 
-- [@Tilakraj0308](https://github.com/vitorborqge)
+- [@vitorborqge](https://github.com/vitorborqge)
 
 ## ⭐️ Contribuir
 
 Se quiser agradecer e/ou apoiar o desenvolvimento ativo da To-Do-List:
 
 1. Adicione um GitHub Star ao projeto.
-2. Follow [Vitorborqge](https://github.com/vitorborqge)
+2. Follow [vitorborqge](https://github.com/vitorborqge)
